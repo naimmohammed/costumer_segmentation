@@ -1,0 +1,7 @@
+Pandas
+Numpy
+Matplotlib
+Seaborn
+sklearn.cluster
+K-mean
+Streamlit
