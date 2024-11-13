@@ -2,6 +2,6 @@ Pandas
 Numpy
 Matplotlib
 Seaborn
-sklearn.cluster
+sklearn-cluster
 K-mean
 Streamlit
